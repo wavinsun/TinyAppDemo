@@ -1,5 +1,4 @@
 # TinyAppDemo
-Tiny App Framwork
 小程序架构示例
 ## 6688
 小程序架构包
